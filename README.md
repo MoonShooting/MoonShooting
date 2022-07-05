@@ -3,7 +3,7 @@
 ## About me
 Hi there!! 👍
 
-Good day! I am <B>JeeWoo Kim</B> who is interested in <B>Front End</B> from South Koeras
+Good day! I am <B>JeeWoo Kim</B> who is interested in <B>Fullstack Developer</B> from South Koeras
 
 ## Contact me
 <p>
