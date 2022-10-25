@@ -8,7 +8,7 @@ Good day! I am <B>JeeWoo Kim</B> who is interested in <B>Fullstack Developer</B>
 ## Contact me
 <p>
   <a href="mailto:moonxlight19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/moonxlight19@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.notion.so/Seungsik-Choi-a8f4ab5f004d4a0bbb9bb37815f048a8"><img src=https://img.shields.io/badge/Notion-%2320232a.svg?style=flat-squar&logo=Notion&logoColor=%2361DAFB/></a>
+  <a href="https://www.notion.so/woo97/HOME-4cfd5b990904430290e0768976f93e80"><img src=https://img.shields.io/badge/Notion-%2320232a.svg?style=flat-squar&logo=Notion&logoColor=%2361DAFB/></a>
   <a href="https://www.instagram.com/jeewoo_97/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
 
 ## My Tech 
