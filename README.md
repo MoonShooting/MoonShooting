@@ -1,9 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=JeeWoo%20Kim&fontSize=60&fontAlign=70&desc=Fullstack%20Developer&descAlign=90&descAlignY=70)
 
 ## About me
-Hi there!! 👍
+안녕하세요.
+기획부터 유지보수까지, 프로젝트의 모든 단계를 경험하며 성장해 온 개발자 <b>김지우</b>라고 합니다. PHP(Laravel), Vue.js, React를 활용한 풀스택 개발 경험을 바탕으로, 현재는 Java와 SQL을 깊이 있게 공부하며 데이터베이스 설계 및 관리에 대한 전문성을 키우고 있습니다.
+프로젝트 매니저(PM) 또는 데이터베이스 관리자(DBA)를 목표로, 넓은 시야와 깊이 있는 기술을 겸비한 전문가가 되기 위해 노력하고 있습니다.
 
-Good day! I am <B>JeeWoo Kim</B> who is interested in <B>Fullstack Developer</B> from South Koeras
+Hello!
+My name is <b>Jeewoo Kim</b>, and I am a developer who has experience at every stage of the project, from planning and architecture to maintenance. I am currently focusing on Java and SQL to deepen my skills in database design and management, leveraging my full stack expertise on PHP (Lavel), Vue.js, and React.
+My goal is to be a project manager or database manager, and I am doing my best to become a professional with a wide field of view and in-depth technical knowledge.
+
+こんにちは。
+企画から保守運用までプロジェクトの全段階を経験しながら成長してきた開発者<b>キムジウ</b>と申します。
+PHP(Laravel)、Vue.js、Reactを活用したフルスタック開発の経験を生かし、現在JavaとSQLを深く学びながらデータベース設計と管理に対する専門性を高めています。
+プロジェクトマネージャーまたはデータベース管理者を目指して、広い視野と深い技術を兼ね備えた専門家になるために日々努力しています。
 
 ## Contact me
 <p>
