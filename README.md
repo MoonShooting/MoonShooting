@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=JeeWoo%20Kim&fontSize=60&fontAlign=70&desc=Fullstack%20Developer&descAlign=90&descAlignY=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=JeeWoo%20Kim&fontSize=60&fontAlign=70&desc=Fullstack%20Developer&descAlign=70&descAlignY=70)
 
 ## About me
 안녕하세요.<br>
