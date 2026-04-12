@@ -9,18 +9,13 @@ Hello!<br>
 My name is <b>Jeewoo Kim</b>, and I am a developer who has experience at every stage of the project, from planning and architecture to maintenance. I am currently focusing on Java and SQL to deepen my skills in database design and management, leveraging my full stack expertise on PHP (Lavel), Vue.js, and React.<br>
 My goal is to be a project manager or database manager, and I am doing my best to become a professional with a wide field of view and in-depth technical knowledge.
 
-こんにちは。<br>
-企画から保守運用までプロジェクトの全段階を経験しながら成長してきた開発者<b>キムジウ</b>と申します。<br>
-PHP(Laravel)、Vue.js、Reactを活用したフルスタック開発の経験を生かし、現在JavaとSQLを深く学びながらデータベース設計と管理に対する専門性を高めています。<br>
-プロジェクトマネージャーまたはデータベース管理者を目指して、広い視野と深い技術を兼ね備えた専門家になるために日々努力しています。
+はじめまして。<br>
+企画から保守運用までプロジェクトの全段階を経験してきた開発者<b>キムジウ</b>と申します。<br>
+PHP(Laravel)、Vue.js、Reactを活用したフルスタック開発の経験を生かし、現在はJavaとSQLを用いてデータベース設計と管理の専門性を高めています。<br>
+将来はPM、さらにはインフラエンジニアを目指しており、広い視野と深い技術を兼ね備えた専門家を目指しています。<br>
 
 ## Contact me
 <p>
-  <a href="mailto:moonxlight19@gmail.com" target="_blank"><img src="https://img.shields.io/badge/moonxlight19@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
-  <a href="https://www.notion.so/woo97/HOME-4cfd5b990904430290e0768976f93e80"><img src=https://img.shields.io/badge/Notion-%2320232a.svg?style=flat-squar&logo=Notion&logoColor=%2361DAFB/></a>
+  <a href="mailto:eraser1197@gmail.com" target="_blank"><img src="https://img.shields.io/badge/moonxlight19@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://woo97.notion.site/ec332af79cfb40caa1460336fc73f765?source=copy_link"><img src=https://img.shields.io/badge/Notion-%2320232a.svg?style=flat-squar&logo=Notion&logoColor=%2361DAFB/></a>
   <a href="https://www.instagram.com/jeewoo_97/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a> &nbsp
-
-## My Tech 
-
-  
-![paperbox's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MoonShooting&show_icons=true&count_private=true&theme=buefy)
